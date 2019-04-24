@@ -1,5 +1,5 @@
 # GI_Final_Project
-## Caleb Stoler
+## Caleb Stoliker
 ### cas363
 ### Business Class Battle
 
@@ -14,8 +14,8 @@ Unfortunately, the option don't work just yet.
 Once in the game, you have 60 seconds to kill as many enemies as you can before time runs out.  At the time I'm writing this, I have yet to get the enemies to attack, so the isn't actually any way to die.  However, you'll notice the health bar on screen.  This health bar works and can be tested by pressing the t key.
 
 ### Controls
-WASD - movement
-mouse - look
-left mouse button - shoot
-shift - sprint
-space - jump
+#### WASD - movement
+#### mouse - look
+#### left mouse button - shoot
+#### shift - sprint
+#### space - jump
